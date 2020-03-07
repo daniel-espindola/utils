@@ -1,0 +1,11 @@
+CoenraadS.bracket-pair-colorizer
+dracula-theme.theme-dracula
+esbenp.prettier-vscode
+HookyQR.beautify
+markdown-translate.markdown-translate
+ms-python.python
+oderwat.indent-rainbow
+PKief.material-icon-theme
+ritwickdey.LiveServer
+vincaslt.highlight-matching-tag
+xabikos.JavaScriptSnippets
